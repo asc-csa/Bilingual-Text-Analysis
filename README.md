@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/asc-csa/Bilingual-Text-Analysis/blob/master/2_Output/topics.PNG?raw=true" height="300">
+    <img src="https://github.com/asc-csa/Bilingual-Text-Analysis/blob/main/2_Output/topics.PNG?raw=true" height="300">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
     <a href="#watchers">
         <img alt="Spectateurs sur Github | GitHub watchers" src="https://img.shields.io/github/watchers/asc-csa/Bilingual-Text-Analysis">
     </a>
-    <a href="https://github.com/asc-csa/Bilingual-Text-Analysis/commits/master">
+    <a href="https://github.com/asc-csa/Bilingual-Text-Analysis/commits/main">
         <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/Bilingual-Text-Analysis">
     </a>
     <a href="https://github.com/asc-csa/Bilingual-Text-Analysis/graphs/contributors">
