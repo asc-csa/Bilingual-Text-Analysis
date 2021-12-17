@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/asc-csa/Bilingual-Text-Analysis/blob/main/2_Output/topics.PNG?raw=true" height="300">
+    <img src="https://github.com/asc-csa/Bilingual-Text-Analysis/blob/master/2_Output/topics.PNG?raw=true" height="300">
 </p>
 
 <p align="center">
