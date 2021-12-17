@@ -1,0 +1,7 @@
+deep_translator==1.5.5
+gensim==4.0.1
+langdetect==1.0.9
+nltk==3.6.1
+pandas==1.2.4
+pyLDAvis==3.3.1
+spacy==3.0.6
